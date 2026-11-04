@@ -10,6 +10,7 @@ A responsive MOR 530 case-study webpage addressing Tesla FSD incentives, third-p
 - Marketplace distributional effects and unit economics
 - Interactive incremental-demand scenario (illustrative, not a forecast)
 - Metrics, experimental design, and phased rollout criteria
+- Original Uber-inspired route illustration and interactive rider/driver concept mockups
 - Mobile layout and Print / Save PDF support
 
 ## Deploy on Vercel
