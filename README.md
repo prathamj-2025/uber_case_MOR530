@@ -10,6 +10,7 @@ A responsive MOR 530 case-study webpage addressing Tesla FSD incentives, third-p
 - Marketplace distributional effects and unit economics
 - Interactive incremental-demand scenario (illustrative, not a forecast)
 - Metrics, experimental design, and phased rollout criteria
+- Rotating 3D car explorer with ten indexed case topics, reading dialogs, drag controls, and reduced-motion support
 - Original Uber-inspired route illustration and interactive rider/driver concept mockups
 - Mobile layout and Print / Save PDF support
 
@@ -24,6 +25,6 @@ Vercel documentation: https://vercel.com/docs/builds/configure-a-build
 
 ## View or edit locally
 
-Open `public/index.html` directly in a browser. All styling and interactivity are self-contained in this file.
+Open `public/index.html` directly in a browser. Keep `explorer.css` and `explorer.js` alongside it; these provide the rotating car and topic dialogs. The site uses no external JavaScript libraries or downloaded 3D models.
 
 The page cites Stanford GSB case SI-187 and external research. The original course PDF is not included.
